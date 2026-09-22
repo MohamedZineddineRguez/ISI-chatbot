@@ -113,5 +113,5 @@ Computer Science Student — Institut Supérieur d'Informatique (ISI)
 
 Interested in **Artificial Intelligence, LLMs, AI Agents and Automation**.
 
-🔗 [LinkedIn](https://www.linkedin.com/feed/foryou/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-zineddine-rguez/)
 🔗 [GitHub](https://github.com/MohamedZineddineRguez)
