@@ -74,7 +74,7 @@ The chatbot combines **document-based knowledge retrieval** with access to the o
 
 The following video demonstrates the chatbot answering questions and retrieving information about ISI.
 
-[Watch the ISI Chatbot Demo]((https://github.com/MohamedZineddineRguez/ISI-chatbot/blob/673faae9478c38b2dd30760f7997308e2e19a6ad/chatbot%20isi4.mp4))
+[Watch the ISI Chatbot Demo]([(https://github.com/MohamedZineddineRguez/ISI-chatbot/blob/673faae9478c38b2dd30760f7997308e2e19a6ad/chatbot%20isi4.mp4)](https://github.com/MohamedZineddineRguez/ISI-chatbot/blob/c0e37de892058beba8f8f05da0df83a032071a68/chatbot%20isi4%20(1).mp4))
 
 ## 🎯 Use Cases
 
