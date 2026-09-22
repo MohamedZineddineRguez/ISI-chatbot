@@ -47,7 +47,7 @@ The chatbot combines **document-based knowledge retrieval** with access to the o
 
 ### Architecture / Workflow
 
-![ISI Chatbot Workflow](workflow chatbot isi 4.png)
+![ISI Chatbot Workflow](https://github.com/MohamedZineddineRguez/ISI-chatbot/blob/150ec12ffca3fadfc6166b154d43f96b9d952f99/workflow%20chatbot%20isi%204.png)
 
 ## ✨ Key Features
 
