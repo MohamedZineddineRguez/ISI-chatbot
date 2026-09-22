@@ -74,7 +74,7 @@ The chatbot combines **document-based knowledge retrieval** with access to the o
 
 The following video demonstrates the chatbot answering questions and retrieving information about ISI.
 
-[Watch the ISI Chatbot Demo](https://github.com/MohamedZineddineRguez/ISI-chatbot/blob/c0e37de892058beba8f8f05da0df83a032071a68/chatbot%20isi4%20(1).mp4))
+[Watch the ISI Chatbot Demo](https://drive.google.com/drive/folders/1Rduqj5KtWhN3DIoQDT19EUQSWureR5gb?usp=drive_link)
 
 ## 🎯 Use Cases
 
@@ -92,7 +92,7 @@ The chatbot can assist students and prospective students with questions related 
 
 The chatbot was designed to make ISI-related information easier and faster to access for students and prospective students.
 
-It has been used to assist **[NUMBER] students/users** with questions related to ISI.
+It has been used to assist **[100] students** with questions related to ISI.
 
 ## 🔮 Future Improvements
 
